@@ -1,5 +1,5 @@
 ---
-title: "By the Numbers"
+title: "**By the Numbers**"
 ---
 
 <br>
@@ -62,22 +62,36 @@ In Fall 2022, all trees on the West side of of campus were identified, measured,
 
 This all sounds quite complicated, so thankfully there is software that will do all this work for us. The US Forest Service, in collaboration with a host of other public and private partners, created [i-Tree Eco](https://www.itreetools.org/about), a software that will estimate a host of benefits associated with an urban forest given the species and DBH of the trees. After providing the data on our trees at Coe, this software does all benefit calculations. i-Tree Eco is a free software available for installation on most devices.
 
+
 ## **Access the Tree Data**
 
 A central goal of the Coe Tree Archive is to make engaging with Coe's natural environmental easier, both for current members of Coe's community and for future members of Coe's community. The tree data collected through this project offer a snapshot in time of the trees on our campus. To ensure anyone interested in our trees can easily explore this snapshot, data files from the project are available below in both .CSV and .KML (for mapping) formats. To download, click the one of the links below and then right click on the page to save the file locally.
 
-[Download Tree Data (.csv)](https://www.google.com/url?q=https%3A%2F%2Fraw.githubusercontent.com%2FEAPerry%2Fcoe-tree-archive%2Fmain%2FCoeTreeArchive.csv&sa=D&sntz=1&usg=AOvVaw1ylsWar3CnETx5N57aJ6Xe)
+<center>
+  <a class="button" href="https://raw.githubusercontent.com/EAPerry/CoeTreeArchive/master/data%20analysis/cleaned%20data/coe_tree_archive.zip">Download Tree Data (.CSV)</a> 
+  
+  <a class="button" href="https://raw.githubusercontent.com/EAPerry/CoeTreeArchive/master/data%20analysis/cleaned%20data/coe_tree_archive_shapefile.zip">Download Tree Data (Shapefile)</a> 
+  
+  <a class="button" href="https://raw.githubusercontent.com/EAPerry/CoeTreeArchive/master/data%20analysis/cleaned%20data/coe_tree_archive_map.zip">Download Tree Data (.KML)</a>
+</center>
 
-[Download Tree Data (.kml)](https://www.google.com/url?q=https%3A%2F%2Fraw.githubusercontent.com%2FEAPerry%2Fcoe-tree-archive%2Fmain%2FcoeTreeArchive.kml&sa=D&sntz=1&usg=AOvVaw3fnQXo6DymoX7n6MTas23f)
+<br>
 
-Additionally, all raw data and the code needed to reproduce both the final dataset and the campus tree map are available for download on [the Coe Tree Archive's GitHub repository linked here](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FEAPerry%2Fcoe-tree-archive&sa=D&sntz=1&usg=AOvVaw1p7iq2rKdnDbaORwRDhIat). All software used in the project are open source and available for free.
+Additionally, all raw data and the code needed to reproduce both the final dataset and the campus tree map are available for download on [the Coe Tree Archive's GitHub repository linked here](https://github.com/EAPerry/CoeTreeArchive). All software used in the project are open source and available for free.
+
+<br>
 
 ## **Additional Tree Reports**
 
 The US Forest Service's i-Tree Eco tool provides additional reports summarizing information on our trees. You can download these reports at the links below:
 
--   [i-Tree Eco Project Metadata](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FEAPerry%2Fcoe-tree-archive%2Fraw%2Fmain%2FiTree%2520Reports%2FiTree%2520Eco%2520Metadata.pdf&sa=D&sntz=1&usg=AOvVaw2VTMe-b2m35I51t8fSulYu)
+-     [i-Tree Eco Project Metadata](#)
 
--   [Composition & Structure of Individual Trees](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FEAPerry%2Fcoe-tree-archive%2Fraw%2Fmain%2FiTree%2520Reports%2FComposition%2520and%2520Structure%2520of%2520Individual%2520Trees.pdf&sa=D&sntz=1&usg=AOvVaw3ZIA3cbirI5MlzV171N8BA)
+-     [Composition & Structure of Individual Trees](#)
 
--   [Benefits & Costs of Individual Trees](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FEAPerry%2Fcoe-tree-archive%2Fraw%2Fmain%2FiTree%2520Reports%2FBenefits%2520and%2520Costs%2520of%2520Individual%2520Trees.pdf&sa=D&sntz=1&usg=AOvVaw3y83aLThfMSpTJVwyuSuHP)
+-     [Benefits & Costs of Individual Trees](#)
+
+
+
+
+
