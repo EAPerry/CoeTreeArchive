@@ -68,11 +68,11 @@ This all sounds quite complicated, so thankfully there is software that will do 
 A central goal of the Coe Tree Archive is to make engaging with Coe's natural environmental easier, both for current members of Coe's community and for future members of Coe's community. The tree data collected through this project offer a snapshot in time of the trees on our campus. To ensure anyone interested in our trees can easily explore this snapshot, data files from the project are available below in both .CSV and .KML (for mapping) formats. To download, click the one of the links below and then right click on the page to save the file locally.
 
 <center>
-  <a class="button" href="https://raw.githubusercontent.com/EAPerry/CoeTreeArchive/master/data%20analysis/cleaned%20data/coe_tree_archive.zip">Download Tree Data (.CSV)</a> 
+  <a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive.zip">Download Tree Data (.CSV)</a> 
   
-  <a class="button" href="https://raw.githubusercontent.com/EAPerry/CoeTreeArchive/master/data%20analysis/cleaned%20data/coe_tree_archive_shapefile.zip">Download Tree Data (Shapefile)</a> 
+  <a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive_shapefile.zip">Download Tree Data (Shapefile)</a> 
   
-  <a class="button" href="https://raw.githubusercontent.com/EAPerry/CoeTreeArchive/master/data%20analysis/cleaned%20data/coe_tree_archive_map.zip">Download Tree Data (.KML)</a>
+  <a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive_map.zip">Download Tree Data (.KML)</a>
 </center>
 
 <br>
@@ -85,11 +85,11 @@ Additionally, all raw data and the code needed to reproduce both the final datas
 
 The US Forest Service's i-Tree Eco tool provides additional reports summarizing information on our trees. You can download these reports at the links below:
 
--     [i-Tree Eco Project Metadata](#)
+-   [i-Tree Eco Project Metadata](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/itree_reports/iTreeEcoMetadata.pdf)
 
--     [Composition & Structure of Individual Trees](#)
+-   [Composition & Structure of Individual Trees](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/itree_reports/CompositionandStructureofIndividualTrees.pdf)
 
--     [Benefits & Costs of Individual Trees](#)
+-   [Benefits & Costs of Individual Trees](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/itree_reports/BenefitsandCostsofIndividualTrees.pdf)
 
 
 
