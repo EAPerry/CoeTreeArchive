@@ -1,0 +1,87 @@
+---
+title: "By the Numbers"
+---
+
+<br>
+
+------------------------------------------------------------------------
+
+<center>
+
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
+  396,000 pounds
+</p>
+
+The Total Carbon Sequestered by Trees on the West Side of Coe's Campus
+
+</center>
+
+------------------------------------------------------------------------
+
+<center>
+
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
+  6,100 pounds
+</p>
+
+New Carbon Sequestered by Trees on the West Side of Coe's Campus Every Year
+
+</center>
+
+------------------------------------------------------------------------
+
+<center>
+
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
+  11,800 cubic feet
+</p>
+
+The Annual Water Runoff Avoided from Trees on the West Side of Coe's Campus
+
+</center>
+
+
+------------------------------------------------------------------------
+
+<center>
+
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
+  313 pounds
+</p>
+
+The Annual Removal of Hazardous Ambient Air Pollutants from Trees on the West Side of Coe's Campus
+
+</center>
+
+------------------------------------------------------------------------
+
+<br>
+
+## **How Do We Estimate The Benefits of Trees?**
+
+In Fall 2022, all trees on the West side of of campus were identified, measured, and photographed. Importantly, the species of a tree and [diameter at breast height (DBH)](https://www.portland.gov/trees/tree-care-and-resources/how-measure-tree) can say quite a bit about a tree. Trees of different species often grow in highly variable ways, such that even trees with identical trunk diameters are otherwise physically very different from each other. Similarly, trees of the same species but with different trunk diameters can also be highly different. But healthy trees of the same species and with the same trunk diameter are predictably similar. Scientists use this regularity to create statistical models that use the species and DBH to predict and physical characteristics of a tree (e.g., biomass). To estimate social benefits, these models incorporate local data on air pollution, precipitation, and the population.
+
+This all sounds quite complicated, so thankfully there is software that will do all this work for us. The US Forest Service, in collaboration with a host of other public and private partners, created [i-Tree Eco](https://www.itreetools.org/about), a software that will estimate a host of benefits associated with an urban forest given the species and DBH of the trees. After providing the data on our trees at Coe, this software does all benefit calculations. i-Tree Eco is a free software available for installation on most devices.
+
+## **Access the Tree Data**
+
+A central goal of the Coe Tree Archive is to make engaging with Coe's natural environmental easier, both for current members of Coe's community and for future members of Coe's community. The tree data collected through this project offer a snapshot in time of the trees on our campus. To ensure anyone interested in our trees can easily explore this snapshot, data files from the project are available below in both .CSV and .KML (for mapping) formats. To download, click the one of the links below and then right click on the page to save the file locally.
+
+[Download Tree Data (.csv)](https://www.google.com/url?q=https%3A%2F%2Fraw.githubusercontent.com%2FEAPerry%2Fcoe-tree-archive%2Fmain%2FCoeTreeArchive.csv&sa=D&sntz=1&usg=AOvVaw1ylsWar3CnETx5N57aJ6Xe)
+
+[Download Tree Data (.kml)](https://www.google.com/url?q=https%3A%2F%2Fraw.githubusercontent.com%2FEAPerry%2Fcoe-tree-archive%2Fmain%2FcoeTreeArchive.kml&sa=D&sntz=1&usg=AOvVaw3fnQXo6DymoX7n6MTas23f)
+
+
+
+
+Additionally, all raw data and the code needed to reproduce both the final dataset and the campus tree map are available for download on [the Coe Tree Archive's GitHub repository linked here](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FEAPerry%2Fcoe-tree-archive&sa=D&sntz=1&usg=AOvVaw1p7iq2rKdnDbaORwRDhIat). All software used in the project are open source and available for free.
+
+## **Additional Tree Reports**
+
+The US Forest Service's i-Tree Eco tool provides additional reports summarizing information on our trees. You can download these reports at the links below:
+
+-   [i-Tree Eco Project Metadata](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FEAPerry%2Fcoe-tree-archive%2Fraw%2Fmain%2FiTree%2520Reports%2FiTree%2520Eco%2520Metadata.pdf&sa=D&sntz=1&usg=AOvVaw2VTMe-b2m35I51t8fSulYu)
+
+-   [Composition & Structure of Individual Trees](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FEAPerry%2Fcoe-tree-archive%2Fraw%2Fmain%2FiTree%2520Reports%2FComposition%2520and%2520Structure%2520of%2520Individual%2520Trees.pdf&sa=D&sntz=1&usg=AOvVaw3ZIA3cbirI5MlzV171N8BA)
+
+-   [Benefits & Costs of Individual Trees](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FEAPerry%2Fcoe-tree-archive%2Fraw%2Fmain%2FiTree%2520Reports%2FBenefits%2520and%2520Costs%2520of%2520Individual%2520Trees.pdf&sa=D&sntz=1&usg=AOvVaw3y83aLThfMSpTJVwyuSuHP)
