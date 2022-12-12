@@ -40,7 +40,6 @@ The Annual Water Runoff Avoided from Trees on the West Side of Coe's Campus
 
 </center>
 
-
 ------------------------------------------------------------------------
 
 <center>
@@ -70,9 +69,6 @@ A central goal of the Coe Tree Archive is to make engaging with Coe's natural en
 [Download Tree Data (.csv)](https://www.google.com/url?q=https%3A%2F%2Fraw.githubusercontent.com%2FEAPerry%2Fcoe-tree-archive%2Fmain%2FCoeTreeArchive.csv&sa=D&sntz=1&usg=AOvVaw1ylsWar3CnETx5N57aJ6Xe)
 
 [Download Tree Data (.kml)](https://www.google.com/url?q=https%3A%2F%2Fraw.githubusercontent.com%2FEAPerry%2Fcoe-tree-archive%2Fmain%2FcoeTreeArchive.kml&sa=D&sntz=1&usg=AOvVaw3fnQXo6DymoX7n6MTas23f)
-
-
-
 
 Additionally, all raw data and the code needed to reproduce both the final dataset and the campus tree map are available for download on [the Coe Tree Archive's GitHub repository linked here](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FEAPerry%2Fcoe-tree-archive&sa=D&sntz=1&usg=AOvVaw1p7iq2rKdnDbaORwRDhIat). All software used in the project are open source and available for free.
 
