@@ -62,10 +62,11 @@ In Fall 2022, all trees on the West side of of campus were identified, measured,
 
 This all sounds quite complicated, so thankfully there is software that will do all this work for us. The US Forest Service, in collaboration with a host of other public and private partners, created [i-Tree Eco](https://www.itreetools.org/about), a software that will estimate a host of benefits associated with an urban forest given the species and DBH of the trees. After providing the data on our trees at Coe, this software does all benefit calculations. i-Tree Eco is a free software available for installation on most devices.
 
+<br>
 
 ## **Access the Tree Data**
 
-A central goal of the Coe Tree Archive is to make engaging with Coe's natural environmental easier, both for current members of Coe's community and for future members of Coe's community. The tree data collected through this project offer a snapshot in time of the trees on our campus. To ensure anyone interested in our trees can easily explore this snapshot, data files from the project are available below in both .CSV and .KML (for mapping) formats. To download, click the one of the links below and then right click on the page to save the file locally.
+A central goal of the Coe Tree Archive is to make engaging with Coe's natural environmental easier, both for current members of Coe's community and for future members of Coe's community. The tree data collected through this project offer a snapshot in time of the trees on our campus. To ensure anyone interested in our trees can easily explore this snapshot, data files from the project are available below in .CSV (not for mapping), .SHP (easiest of mapping in R and Python), and .KML (easiest for mapping in Google Earth and ArcGIS) formats.
 
 <center>
   <a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive.zip">Download Tree Data (.CSV)</a> 
@@ -85,11 +86,11 @@ Additionally, all raw data and the code needed to reproduce both the final datas
 
 The US Forest Service's i-Tree Eco tool provides additional reports summarizing information on our trees. You can download these reports at the links below:
 
--   [i-Tree Eco Project Metadata](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/itree_reports/iTreeEcoMetadata.pdf)
+-   [i-Tree Eco Project Metadata](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/itree_reports/iTreeEcoMetadata.pdf)
 
--   [Composition & Structure of Individual Trees](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/itree_reports/CompositionandStructureofIndividualTrees.pdf)
+-   [Composition & Structure of Individual Trees](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/itree_reports/CompositionandStructureofIndividualTrees.pdf)
 
--   [Benefits & Costs of Individual Trees](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/itree_reports/BenefitsandCostsofIndividualTrees.pdf)
+-   [Benefits & Costs of Individual Trees](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/itree_reports/BenefitsandCostsofIndividualTrees.pdf)
 
 
 
