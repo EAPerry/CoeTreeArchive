@@ -1,5 +1,5 @@
 ---
-title: "Cathedral Elm"
+title: "**Cathedral Elm**"
 description: "Tree ID: 141"
 image: "all_tree_images/141/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  10/23/2022
 
 Diameter at Breast Height:  0.8  inches
 
-Planters:  
-L. Dufoe
-M. Jones
-A. Phillips
+Planters:  L. Dufoe, M. Jones, A. Phillips
 
 ## **i-Tree Eco Estimates**
 

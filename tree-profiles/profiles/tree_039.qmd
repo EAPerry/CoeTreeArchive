@@ -1,5 +1,5 @@
 ---
-title: "Red Oak"
+title: "**Red Oak**"
 description: "Tree ID: 039"
 image: "all_tree_images/039/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  9/21/2022
 
 Diameter at Breast Height:  2.2  inches
 
-Planters:  
-C. Karwowski
-N. Meskell
-A. Welna
+Planters:  C. Karwowski, N. Meskell, A. Welna
 
 ## **i-Tree Eco Estimates**
 

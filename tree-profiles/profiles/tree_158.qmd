@@ -1,5 +1,5 @@
 ---
-title: "Freeman Maple"
+title: "**Freeman Maple**"
 description: "Tree ID: 158"
 image: "all_tree_images/158/main.jpg"
 ---

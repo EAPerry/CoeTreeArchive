@@ -1,5 +1,5 @@
 ---
-title: "Common Hackberry"
+title: "**Common Hackberry**"
 description: "Tree ID: 143"
 image: "all_tree_images/143/main.jpg"
 ---

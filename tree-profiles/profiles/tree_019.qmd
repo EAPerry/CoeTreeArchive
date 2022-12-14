@@ -1,5 +1,5 @@
 ---
-title: "Bur Oak"
+title: "**Bur Oak**"
 description: "Tree ID: 019"
 image: "all_tree_images/019/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  9/21/2022
 
 Diameter at Breast Height:  2.7  inches
 
-Planters:  
-R. Dufoe
-A. Montalbano
-B. Sanfort
+Planters:  R. Dufoe, A. Montalbano, B. Sanfort
 
 ## **i-Tree Eco Estimates**
 

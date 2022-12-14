@@ -1,5 +1,5 @@
 ---
-title: "Red Oak"
+title: "**Red Oak**"
 description: "Tree ID: 123"
 image: "all_tree_images/123/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  10/23/2022
 
 Diameter at Breast Height:  2.1  inches
 
-Planters:  
-T. Bossom
-B. Brokaw
-J. Langerud
+Planters:  T. Bossom, B. Brokaw, J. Langerud
 
 ## **i-Tree Eco Estimates**
 

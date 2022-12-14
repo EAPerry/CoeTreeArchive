@@ -1,5 +1,5 @@
 ---
-title: "Cottonwood"
+title: "**Cottonwood**"
 description: "Tree ID: 176"
 image: "all_tree_images/176/main.jpg"
 ---

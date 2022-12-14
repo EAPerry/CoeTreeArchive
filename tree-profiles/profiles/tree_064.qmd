@@ -1,5 +1,5 @@
 ---
-title: "Sentry Linden"
+title: "**Sentry Linden**"
 description: "Tree ID: 064"
 image: "all_tree_images/064/main.jpg"
 ---
@@ -16,11 +16,7 @@ Date Recorded:  9/30/2022
 
 Diameter at Breast Height:  3.4  inches
 
-Planters:  
-E. Brinkman
-C. Hackenmiller
-G. Pisarik
-A. Reinstein
+Planters:  E. Brinkman, C. Hackenmiller, G. Pisarik, A. Reinstein
 
 ## **i-Tree Eco Estimates**
 

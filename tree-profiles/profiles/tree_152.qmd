@@ -1,5 +1,5 @@
 ---
-title: "Princeton Elm"
+title: "**Princeton Elm**"
 description: "Tree ID: 152"
 image: "all_tree_images/152/main.jpg"
 ---

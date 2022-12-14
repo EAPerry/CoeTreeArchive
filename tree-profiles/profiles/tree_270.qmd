@@ -1,5 +1,5 @@
 ---
-title: "Hawthorn"
+title: "**Hawthorn**"
 description: "Tree ID: 270"
 image: "all_tree_images/270/main.jpg"
 ---

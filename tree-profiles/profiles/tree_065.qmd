@@ -1,5 +1,5 @@
 ---
-title: "Sentry Elm"
+title: "**Sentry Elm**"
 description: "Tree ID: 065"
 image: "all_tree_images/065/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  9/30/2022
 
 Diameter at Breast Height:  1.8  inches
 
-Planters:  
-P. Cooper
-P. Shevchuk
-A. Valdiva
+Planters:  P. Cooper, P. Shevchuk, A. Valdiva
 
 ## **i-Tree Eco Estimates**
 

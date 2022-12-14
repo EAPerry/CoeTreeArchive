@@ -1,5 +1,5 @@
 ---
-title: "Sentry Elm"
+title: "**Sentry Elm**"
 description: "Tree ID: 070"
 image: "all_tree_images/070/main.jpg"
 ---

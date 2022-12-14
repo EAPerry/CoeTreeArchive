@@ -1,5 +1,5 @@
 ---
-title: "Valley Forge Elm"
+title: "**Valley Forge Elm**"
 description: "Tree ID: 085"
 image: "all_tree_images/085/main.jpg"
 ---
@@ -16,9 +16,7 @@ Date Recorded:  9/30/2022
 
 Diameter at Breast Height:  2.9  inches
 
-Planters:  
-K. Ammon
-M. Niedfeldt
+Planters:  K. Ammon, M. Niedfeldt
 
 ## **i-Tree Eco Estimates**
 

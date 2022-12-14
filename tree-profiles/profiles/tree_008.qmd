@@ -1,5 +1,5 @@
 ---
-title: "Princeton Elm"
+title: "**Princeton Elm**"
 description: "Tree ID: 008"
 image: "all_tree_images/008/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  9/14/2022
 
 Diameter at Breast Height:  2.6  inches
 
-Planters:  
-A. Ahern
-C. Karwowski
-A. Welna
+Planters:  A. Ahern, C. Karwowski, A. Welna
 
 ## **i-Tree Eco Estimates**
 

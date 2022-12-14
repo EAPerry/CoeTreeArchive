@@ -74,8 +74,7 @@ for (i in 1:length(df$TreeID)){
   if(is.na(df$Planters[i])){
     names <- "Unknown"
   } else {
-    names <- str_replace_all(df$Planters[i], pattern = ", ", replacement="\n")
-    names <- paste("\n", names, sep="")
+    names <- df$Planters[i]
   }
   
   # Write the i-Tree Eco Estimate lines
@@ -119,7 +118,7 @@ for (i in 1:length(df$TreeID)){
   
   my_lines <- c(
     "---",
-    paste("title: ", '"', df$Species[i], '"', sep=""),
+    paste("title: ", '"**', df$Species[i], '**"', sep=""),
     paste("description: ", '"Tree ID: ', df$TreeID[i], '"', sep=""),
     paste("image: ", '"', df$cover_pic[i], '"', sep=""),
     "---",

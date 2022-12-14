@@ -1,5 +1,5 @@
 ---
-title: "Honey Locust"
+title: "**Honey Locust**"
 description: "Tree ID: 204"
 image: "all_tree_images/204/main.jpg"
 ---

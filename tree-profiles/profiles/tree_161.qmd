@@ -1,5 +1,5 @@
 ---
-title: "Autumn Fest Maple"
+title: "**Autumn Fest Maple**"
 description: "Tree ID: 161"
 image: "all_tree_images/161/main.jpg"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Swamp White Oak"
+title: "**Swamp White Oak**"
 description: "Tree ID: 055"
 image: "all_tree_images/055/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  9/30/2022
 
 Diameter at Breast Height:  2.8  inches
 
-Planters:  
-D. Gayer
-R. Verchimak
-G. Wahls
+Planters:  D. Gayer, R. Verchimak, G. Wahls
 
 ## **i-Tree Eco Estimates**
 

@@ -1,5 +1,5 @@
 ---
-title: "Colorado Blue Spruce"
+title: "**Colorado Blue Spruce**"
 description: "Tree ID: 089"
 image: "all_tree_images/089/main.jpg"
 ---

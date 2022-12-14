@@ -8,9 +8,7 @@ title: "**By the Numbers**"
 
 <center>
 
-<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
-  396,000 pounds
-</p>
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold"> 396,000 pounds </p>
 
 The Total Carbon Sequestered by Trees on the West Side of Coe's Campus
 
@@ -20,9 +18,7 @@ The Total Carbon Sequestered by Trees on the West Side of Coe's Campus
 
 <center>
 
-<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
-  6,100 pounds
-</p>
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold"> 6,100 pounds </p>
 
 New Carbon Sequestered by Trees on the West Side of Coe's Campus Every Year
 
@@ -32,9 +28,7 @@ New Carbon Sequestered by Trees on the West Side of Coe's Campus Every Year
 
 <center>
 
-<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
-  11,800 cubic feet
-</p>
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold"> 11,800 cubic feet </p>
 
 The Annual Water Runoff Avoided from Trees on the West Side of Coe's Campus
 
@@ -44,9 +38,7 @@ The Annual Water Runoff Avoided from Trees on the West Side of Coe's Campus
 
 <center>
 
-<p style="font-size: 3rem; color: #89b04c; font-weight: bold">
-  313 pounds
-</p>
+<p style="font-size: 3rem; color: #89b04c; font-weight: bold"> 313 pounds </p>
 
 The Annual Removal of Hazardous Ambient Air Pollutants from Trees on the West Side of Coe's Campus
 
@@ -66,14 +58,16 @@ This all sounds quite complicated, so thankfully there is software that will do 
 
 ## **Access the Tree Data**
 
-A central goal of the Coe Tree Archive is to make engaging with Coe's natural environmental easier, both for current members of Coe's community and for future members of Coe's community. The tree data collected through this project offer a snapshot in time of the trees on our campus. To ensure anyone interested in our trees can easily explore this snapshot, data files from the project are available below in .CSV (not for mapping), .SHP (easiest of mapping in R and Python), and .KML (easiest for mapping in Google Earth and ArcGIS) formats.
+A central goal of the Coe Tree Archive is to make engaging with Coe's natural environmental easier, both for current members of Coe's community and for future members of Coe's community. The tree data collected through this project offer a snapshot in time of the trees on our campus. To ensure anyone interested in our trees can easily explore this snapshot, data files from the project are available below in .CSV (not for mapping), .SHP (easiest for mapping in R and Python), and .KML (easiest for mapping in Google Earth and ArcGIS) formats.
 
 <center>
-  <a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive.zip">Download Tree Data (.CSV)</a> 
-  
-  <a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive_shapefile.zip">Download Tree Data (Shapefile)</a> 
-  
-  <a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive_map.zip">Download Tree Data (.KML)</a>
+
+<a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive.zip">Download Tree Data (.CSV)</a>
+
+<a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive_shapefile.zip">Download Tree Data (Shapefile)</a>
+
+<a class="button" href="https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/cleaned%20data/coe_tree_archive_map.zip">Download Tree Data (.KML)</a>
+
 </center>
 
 <br>
@@ -91,8 +85,3 @@ The US Forest Service's i-Tree Eco tool provides additional reports summarizing 
 -   [Composition & Structure of Individual Trees](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/itree_reports/CompositionandStructureofIndividualTrees.pdf)
 
 -   [Benefits & Costs of Individual Trees](https://github.com/EAPerry/CoeTreeArchive/raw/master/data%20analysis/raw%20data/itree_reports/BenefitsandCostsofIndividualTrees.pdf)
-
-
-
-
-

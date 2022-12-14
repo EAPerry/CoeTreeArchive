@@ -1,5 +1,5 @@
 ---
-title: "Kentucky Coffee Tree"
+title: "**Kentucky Coffee Tree**"
 description: "Tree ID: 215"
 image: "all_tree_images/215/main.jpg"
 ---

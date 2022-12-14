@@ -1,5 +1,5 @@
 ---
-title: "Dogwood"
+title: "**Dogwood**"
 description: "Tree ID: 189"
 image: "all_tree_images/189/main.jpg"
 ---

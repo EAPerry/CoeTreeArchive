@@ -1,5 +1,5 @@
 ---
-title: "Ohio Buckeye"
+title: "**Ohio Buckeye**"
 description: "Tree ID: 195"
 image: "all_tree_images/195/main.jpg"
 ---

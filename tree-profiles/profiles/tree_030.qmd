@@ -1,5 +1,5 @@
 ---
-title: "Tulip Tree"
+title: "**Tulip Tree**"
 description: "Tree ID: 030"
 image: "all_tree_images/030/main.jpg"
 ---

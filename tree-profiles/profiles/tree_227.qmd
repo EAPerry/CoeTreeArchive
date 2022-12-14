@@ -1,5 +1,5 @@
 ---
-title: "Swamp White Oak"
+title: "**Swamp White Oak**"
 description: "Tree ID: 227"
 image: "all_tree_images/227/main.jpg"
 ---

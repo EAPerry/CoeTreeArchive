@@ -4,6 +4,8 @@ listing:
   type: grid
   id: trees
   contents: tree-profiles/profiles
+  sort-ui: true
+  filter-ui: true
 ---
 
 ## **Have Something to Share About Our Trees?**

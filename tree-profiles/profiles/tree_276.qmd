@@ -1,5 +1,5 @@
 ---
-title: "Red Oak"
+title: "**Red Oak**"
 description: "Tree ID: 276"
 image: "all_tree_images/276/main.jpg"
 ---

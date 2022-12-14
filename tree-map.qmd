@@ -7,7 +7,6 @@ title: "**Tree Map**"
 #| echo: false
 #| message: false
 #| warning: false
-#| eval: false
 
 
 # Importing packages
@@ -105,7 +104,9 @@ style='width:15px;height:30px;'>\tOther
 tree_shp  <- tree_shp %>% 
   rowwise %>% 
   mutate(
-    formatted_names = format_names(planters)
+    formatted_names = format_names(planters),
+    ID = str_pad(ID, width = 3, side="left", pad="0"),
+    my_url = paste("https://eaperry.github.io/CoeTreeArchive/tree-profiles/profiles/tree_", ID, ".html", sep="")
   )
 
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -116,7 +117,7 @@ leaflet(tree_shp, options = leafletOptions(minZoom = 15, maxZoom = 20, maxNative
   addMarkers(
     icon = ~treeIcons[tree_grp], 
     popup = ~paste(
-      "<h3>", species, "</h3>",
+      "<h4>", species, "</h4>",
       "<hr> </hr>",
       "<table>
         <tr>
@@ -143,7 +144,9 @@ leaflet(tree_shp, options = leafletOptions(minZoom = 15, maxZoom = 20, maxNative
         <td>Planted By:</td>
         <td>", formatted_names, "</td>
         </tr>",
-      "</table>"
+      "</table>",
+      "<br>",
+      "<a href=", my_url, ">More About This Tree</a>"
     )
   ) %>% 
   addResetMapButton() %>%

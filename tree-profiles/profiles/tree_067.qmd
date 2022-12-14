@@ -1,5 +1,5 @@
 ---
-title: "Autumn Fest Maple"
+title: "**Autumn Fest Maple**"
 description: "Tree ID: 067"
 image: "all_tree_images/067/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  9/30/2022
 
 Diameter at Breast Height:  2.6  inches
 
-Planters:  
-S. Check
-A. Forman
-C. Pitstick
+Planters:  S. Check, A. Forman, C. Pitstick
 
 ## **i-Tree Eco Estimates**
 

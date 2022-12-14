@@ -1,5 +1,5 @@
 ---
-title: "Sentry Linden"
+title: "**Sentry Linden**"
 description: "Tree ID: 049"
 image: "all_tree_images/049/main.jpg"
 ---

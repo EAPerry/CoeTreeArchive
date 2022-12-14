@@ -1,5 +1,5 @@
 ---
-title: "Eastern Red Cedar"
+title: "**Eastern Red Cedar**"
 description: "Tree ID: 249"
 image: "all_tree_images/249/main.jpg"
 ---

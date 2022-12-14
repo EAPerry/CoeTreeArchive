@@ -1,5 +1,5 @@
 ---
-title: "Cathedral Elm"
+title: "**Cathedral Elm**"
 description: "Tree ID: 057"
 image: "all_tree_images/057/main.jpg"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Swamp White Oak"
+title: "**Swamp White Oak**"
 description: "Tree ID: 264"
 image: "all_tree_images/264/main.jpg"
 ---
@@ -16,9 +16,7 @@ Date Recorded:  11/9/2022
 
 Diameter at Breast Height:  2.6  inches
 
-Planters:  
-A. Eastburg
-C. Robledo
+Planters:  A. Eastburg, C. Robledo
 
 ## **i-Tree Eco Estimates**
 

@@ -1,5 +1,5 @@
 ---
-title: "Swamp White Oak"
+title: "**Swamp White Oak**"
 description: "Tree ID: 125"
 image: "all_tree_images/125/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  10/23/2022
 
 Diameter at Breast Height:  2.5  inches
 
-Planters:  
-S. Gobeli
-Q. Peterson
-A. Tomes
+Planters:  S. Gobeli, Q. Peterson, A. Tomes
 
 ## **i-Tree Eco Estimates**
 

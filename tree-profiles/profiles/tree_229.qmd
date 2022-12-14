@@ -1,5 +1,5 @@
 ---
-title: "Scotch Pine"
+title: "**Scotch Pine**"
 description: "Tree ID: 229"
 image: "all_tree_images/229/main.jpg"
 ---

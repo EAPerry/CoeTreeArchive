@@ -1,5 +1,5 @@
 ---
-title: "Silver Birch"
+title: "**Silver Birch**"
 description: "Tree ID: 149"
 image: "all_tree_images/149/main.jpg"
 ---

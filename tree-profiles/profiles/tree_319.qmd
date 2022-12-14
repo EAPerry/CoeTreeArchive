@@ -1,5 +1,5 @@
 ---
-title: "Autumn Brillance Serviceberry"
+title: "**Autumn Brillance Serviceberry**"
 description: "Tree ID: 319"
 image: "all_tree_images/not_available.png"
 ---

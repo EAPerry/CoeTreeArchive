@@ -1,5 +1,5 @@
 ---
-title: "Bur Oak"
+title: "**Bur Oak**"
 description: "Tree ID: 063"
 image: "all_tree_images/063/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  9/30/2022
 
 Diameter at Breast Height:  2.6  inches
 
-Planters:  
-K. Kirk
-K. Niehaus
-M. Pinto
+Planters:  K. Kirk, K. Niehaus, M. Pinto
 
 ## **i-Tree Eco Estimates**
 

@@ -1,5 +1,5 @@
 ---
-title: "Cathedral Elm"
+title: "**Cathedral Elm**"
 description: "Tree ID: 066"
 image: "all_tree_images/066/main.jpg"
 ---
@@ -16,9 +16,7 @@ Date Recorded:  9/30/2022
 
 Diameter at Breast Height:  3.6  inches
 
-Planters:  
-S. Craig
-G. Petersen
+Planters:  S. Craig, G. Petersen
 
 ## **i-Tree Eco Estimates**
 

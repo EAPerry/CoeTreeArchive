@@ -1,5 +1,5 @@
 ---
-title: "Green Ash"
+title: "**Green Ash**"
 description: "Tree ID: 174"
 image: "all_tree_images/174/main.jpg"
 ---

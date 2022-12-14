@@ -1,5 +1,5 @@
 ---
-title: "Little-Leaf Linden"
+title: "**Little-Leaf Linden**"
 description: "Tree ID: 093"
 image: "all_tree_images/093/main.jpg"
 ---

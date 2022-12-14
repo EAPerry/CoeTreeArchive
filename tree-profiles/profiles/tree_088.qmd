@@ -1,5 +1,5 @@
 ---
-title: "Norway Maple"
+title: "**Norway Maple**"
 description: "Tree ID: 088"
 image: "all_tree_images/088/main.jpg"
 ---

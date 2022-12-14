@@ -1,5 +1,5 @@
 ---
-title: "Maple Northern Flare"
+title: "**Maple Northern Flare**"
 description: "Tree ID: 193"
 image: "all_tree_images/193/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  10/25/2022
 
 Diameter at Breast Height:  2.2  inches
 
-Planters:  
-H. Blegger
-S. Huggins
-L. Tierney
+Planters:  H. Blegger, S. Huggins, L. Tierney
 
 ## **i-Tree Eco Estimates**
 

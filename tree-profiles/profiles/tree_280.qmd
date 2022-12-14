@@ -1,5 +1,5 @@
 ---
-title: "Princeton Sentry Ginkgo"
+title: "**Princeton Sentry Ginkgo**"
 description: "Tree ID: 280"
 image: "all_tree_images/280/main.jpg"
 ---
@@ -16,10 +16,7 @@ Date Recorded:  11/9/2022
 
 Diameter at Breast Height:  1  inches
 
-Planters:  
-M. Cavanagh
-K. Mahlberg
-L. Steege
+Planters:  M. Cavanagh, K. Mahlberg, L. Steege
 
 ## **i-Tree Eco Estimates**
 

@@ -1,5 +1,5 @@
 ---
-title: "Crabapple"
+title: "**Crabapple**"
 description: "Tree ID: 026"
 image: "all_tree_images/026/main.jpg"
 ---

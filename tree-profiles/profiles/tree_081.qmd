@@ -1,5 +1,5 @@
 ---
-title: "Autumn Fest Maple"
+title: "**Autumn Fest Maple**"
 description: "Tree ID: 081"
 image: "all_tree_images/081/main.jpg"
 ---
@@ -16,9 +16,7 @@ Date Recorded:  9/30/2022
 
 Diameter at Breast Height:  1.8  inches
 
-Planters:  
-L. Chambless
-S. Willis
+Planters:  L. Chambless, S. Willis
 
 ## **i-Tree Eco Estimates**
 

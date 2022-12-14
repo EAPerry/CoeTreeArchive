@@ -1,5 +1,5 @@
 ---
-title: "Ginkgo"
+title: "**Ginkgo**"
 description: "Tree ID: 010"
 image: "all_tree_images/010/main.jpg"
 ---
