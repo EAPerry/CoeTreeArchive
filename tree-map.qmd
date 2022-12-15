@@ -117,7 +117,7 @@ leaflet(tree_shp, options = leafletOptions(minZoom = 15, maxZoom = 20, maxNative
   addMarkers(
     icon = ~treeIcons[tree_grp], 
     popup = ~paste(
-      "<h4>", species, "</h4>",
+      '<h3>',species,"</h3>",
       "<hr> </hr>",
       "<table>
         <tr>
@@ -129,7 +129,7 @@ leaflet(tree_shp, options = leafletOptions(minZoom = 15, maxZoom = 20, maxNative
         <td>", dbh, "in.</td>
         </tr>",
       "<tr>
-        <td>Carbon Sequestration:</td>
+        <td>Carbon Sequestration: &nbsp; &nbsp; &nbsp;</td>
         <td>", c_stor_1, "lbs</td>
         </tr>",
       "<tr>
@@ -145,7 +145,6 @@ leaflet(tree_shp, options = leafletOptions(minZoom = 15, maxZoom = 20, maxNative
         <td>", formatted_names, "</td>
         </tr>",
       "</table>",
-      "<br>",
       "<a href=", my_url, ">More About This Tree</a>"
     )
   ) %>% 
@@ -157,8 +156,9 @@ leaflet(tree_shp, options = leafletOptions(minZoom = 15, maxZoom = 20, maxNative
 
 ## **About the Tree Map**
 
-The Tree Map from the Coe Tree Archive is the easiest way to learn more about the trees around Coe's campus. The interactive nature of the Tree Map makes it a flexible and fast tool to help you connect with the trees around you. For more detailed data on the our trees, see [By the Numbers](/tree-numbers.qmd).
+The Tree Map from the Coe Tree Archive is the easiest way to learn more about the trees around Coe's campus. The interactive nature of the Tree Map makes it a flexible and fast tool to help connect individuals on Coe's campus with the trees around them. For more detailed data on the our trees, see [By the Numbers](/tree-numbers.qmd).
 
-Additionally, the Tree Map displays estimates of some of the tangible benefits individual trees offer us, including carbon sequestration, avoided runoff, and reductions in air pollution. These estimates all come from [i-Tree Eco](https://www.google.com/url?q=https%3A%2F%2Fwww.itreetools.org%2Fabout&sa=D&sntz=1&usg=AOvVaw3GOEoGXmmayyppyP6FyRTo), a software product supported by the US Forest Service.
+In addition to identification information, the Tree Map displays estimates of some of the tangible benefits individual trees offer us, including carbon sequestration, avoided runoff, and reductions in air pollution. These estimates all come from [i-Tree Eco](https://www.itreetools.org/about), a software product supported by the US Forest Service.
 
-Finally, the Tree Map displays the names, if available, of anyone who helped plant a tree. Many trees planted after the derecho have a metal tag that display the names of the members of the Coe community who helped plant the tree. The Tree Map contains these names as a way to celebrate those who helped rebuild our campus, and to help us all connect the environment around us to the hard work of our community.
+Finally, the Tree Map displays the names, if available, of anyone who helped plant a tree. Many trees planted after the derecho have a metal tag that display the names of the members of the Coe community who helped plant the tree. The Tree Map contains these names as a way to celebrate those who helped rebuild our campus, and to help us all appreciate the opportunities we have support others through the environment.
+

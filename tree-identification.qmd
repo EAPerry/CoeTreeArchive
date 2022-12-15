@@ -6,10 +6,9 @@ One important part of connecting with the trees around us is learning to identif
 
 <br>
 
-
 ## **Oaks**
 
-The Oak tree is unambiguously the favorite tree of on campus. Acorns are the fruit of Oak trees and have long been a symbol of the College, in addition to being great food for our squirrels. Oak trees are by far the most common tree on campus, with 80 Oak trees on the campus west of College Drive. The Oak tree is also Iowa's state tree.
+The Oak tree is unambiguously the favorite tree of the College. Acorns are the fruit of Oak trees and have long been a symbol of the College, in addition to being great food for our squirrels. Oak trees are by far the most common tree on campus, with 80 Oak trees on the campus west of College Drive. The Oak tree is also Iowa's state tree.
 
 Oak trees are easily identifiable by their acorns and leaves. Oak trees are the only trees that produce acorns. The leaves of oak trees can vary substantially, but are usually 5 to 10 inches long with 5 to 9 symmetrically arranged lobes.
 
@@ -79,21 +78,17 @@ Species of Oak tree fall into one of two categories: Red Oaks or White Oaks. The
 
 <br>
 
-
 ### **Bur Oaks**
 
 *Quercus macrocarpa*. Rounding out the set of Oak trees on campus, Bur Oaks make for an interesting variety of Oak. In contrast to Swamp White Oaks, Bur Oak leaves have almost overexaggerated lobes. Often the divot in the leaf (also called the sinus) just above the final lobe is large, creating a very narrow cross section just before the final lobe. The bark of young Bur Oak's is especially shaggy in appearance.
 
 ::: {layout-ncol="2"}
-
 ![](images/tree_identification/bur_oak/buroak_leaves2.jpg){width="307"}
 
 ![](images/tree_identification/bur_oak/buroak_profile.jpg){width="214"}
-
 :::
 
 <br>
-
 
 ## **Maples**
 
@@ -104,26 +99,21 @@ Behind Oaks, Maples are the second most common deciduous tree on campus. Maple l
 *Acer saccharum*. Sugar Maples leaves have 5 lobes, with clear rounded out spaces between each lobe. Each lobe is very full and wide, an easy way to differentiate Sugar Maples from Silver Maples (which are common in many places, but not common on Coe's campus). There are several sub-varieties of Sugar Maple on campus. The Autumn Fest Maple is a variety of a Sugar Maple, prized for its bright colors in the fall. Many of the Autumn Fest Maples on campus were planted in the aftermath of the 2020 derecho. Many of these are on located around Dows and around the academic quad.
 
 ::: {layout-ncol="2"}
-
 ![](images/tree_identification/sugar_maple/autumnmaple_leaves.jpg){width="362"}
 
 ![](images/tree_identification/sugar_maple/autumnmaple_profile.jpg){width="230"}
-
 :::
 
 <br>
-
 
 ### **Freeman Maples**
 
 *Acer x freemanii*. The Freeman Maple is a popular hybrid tree, a cross between a Red Maple and Silver Maple. Silver Maple leaves are identifiable by their slender lobes, a trait that appears in the Freeman Maple as well. The branches of Freeman Maples tend to be less "swoopy" than a standard Silver Maple, a trait from the Red Maple. Freeman Maples have a brilliant pink-orange color in the fall.
 
 ::: {layout-ncol="2"}
-
 ![](images/tree_identification/freeman_maple/freemanmaple_leaves.JPG){width="289"}
 
 ![](images/tree_identification/freeman_maple/freemanmaple_profile.JPG){width="246"}
-
 :::
 
 <br>
@@ -133,13 +123,11 @@ Behind Oaks, Maples are the second most common deciduous tree on campus. Maple l
 *Ulmus americana.* Elm leaves have a distinct egg-like shape that comes to a pointed tip, with ridges that run from the center to the outer edge of the leaf in a slightly asymmetric pattern. At the edge of the leaf, these ridges turn out into small, dull teeth. We have several different varieties of Elm on campus including the Princeton Elm, Cathedral Elm, and Valley Forge Elm. In the fall, the Elms on campus turn a bright yellow color. Oftentimes the edges of the Elm leaves brown first making it look like many of the Elm leaves on campus have spent some time in a toaster.
 
 ::: {layout-ncol="3"}
-
 ![](images/tree_identification/elm/elm_leaves2.JPG){width="318"}
 
 ![](images/tree_identification/elm/elm_leaves3.JPG){width="305"}
 
 ![](images/tree_identification/elm/elm_profile.JPG){width="189"}
-
 :::
 
 <br>
@@ -149,13 +137,11 @@ Behind Oaks, Maples are the second most common deciduous tree on campus. Maple l
 *Gleditsia triacanthos v. inermis.* Honey Locust trees have leaves that are easily distibuishable from other trees on campus. These leaves have no lobes at all, but have bundles of symmetrical leaflets. These trees turn a bright yellow in the fall. The bark of Honey Locust trees is also distinguishable, usually appearing as long strips of medium thickness, often with a slight mossy-green color. Honey Locust trees are often consider a nuisance tree because a standard Honey Locust has large thorns along its branches and dense patches of thorns on the trunk. All of the Honey Locust trees on Coe's campus are Thornless Honey Locusts though, so you shouldn't be afraid to hug any of the Honey Locust trees here.
 
 ::: {layout-ncol="3"}
-
 ![](images/tree_identification/honey_locust/honeylocust_bark.JPG){width="296"}
 
 ![](images/tree_identification/honey_locust/honeylocust_leaves2.jpg){width="354"}
 
 ![](images/tree_identification/honey_locust/honeylocust_profile.JPG){width="189"}
-
 :::
 
 <br>
@@ -165,11 +151,9 @@ Behind Oaks, Maples are the second most common deciduous tree on campus. Maple l
 *Pinus sylvestris*. Scotch Pine trees (also called Scots Pine) are one of the most common trees on campus. The needles of Scotch Pines tend to be somewhat brittle---likely to break if you try to bend them. Mature Scotch Pines have a distinctive orange tint to their bark and branches. You can find many of these trees in the area between Greene and Murray. Unlike Eastern White Pines (also in the area between Greene and Murray), Scotch Pines have spherical pinecones, rather than long cylindrical pinecones.
 
 ::: {layout-ncol="2"}
-
 ![](images/tree_identification/scotch_pine/scotchpine_bark.JPG){width="264"}
 
 ![](images/tree_identification/scotch_pine/scotchpine_pinecone.JPG){width="296"}
-
 :::
 
 <br>
