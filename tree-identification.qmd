@@ -69,9 +69,9 @@ Species of Oak tree fall into one of two categories: Red Oaks or White Oaks. The
 *Quercus bicolor*. Swamp White Oaks are the most common tree around Coe, with 27 Swamp White Oaks on Coe's campus west of College Drive. Swamp White Oak leaves are distinctly bulbous compared to other Oak varieties, with lobes that are very wide and shallow compared to other Oak varieties. The bark of Swamp White Oaks often appears in long-strips, while many other Oaks have relatively smooth bark. In the fall, Swamp White Oaks retain their leaves longer than most trees. If you see a tree in late November with crisp light brown leaves still on the tree, there's a good chance that its a Swamp White Oak.
 
 ::: {layout-ncol="2"}
-![](images/tree_identification/swamp_white_oak/swampwhiteoak_leaves.JPG){width="332"}
+![](images/tree_identification/swamp_white_oak/swampwhiteoak_leaves.jpg){width="332"}
 
-![](images/tree_identification/swamp_white_oak/swampwhiteoak_profile.jpg){width="265"}
+![](images/tree_identification/swamp_white_oak/swampwhiteoak_profile.JPG){width="265"}
 :::
 
 ![](images/tree_identification/swamp_white_oak/swampwhiteoak_leaves2.JPG){fig-align="center" width="75%"}
